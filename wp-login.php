@@ -66,7 +66,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://abhishek-tiwaari.github.io/AbhiBlogs/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/myself\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://abhishek-tiwaari.github.io/AbhiBlogs/wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"dcdc65b247"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"684cf86189"};</script>
 <script src="https://abhishek-tiwaari.github.io/AbhiBlogs/wp-admin/js/user-profile.min.js?ver=6.2.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>

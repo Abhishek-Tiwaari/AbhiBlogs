@@ -12,7 +12,7 @@
 	<atom:link href="https://abhishek-tiwaari.github.io/AbhiBlogs/portfolio-cat/news-website/feed/" rel="self" type="application/rss+xml" />
 	<link>https://abhishek-tiwaari.github.io/AbhiBlogs</link>
 	<description>Yet another awesome website by Phlox theme.</description>
-	<lastBuildDate>Sat, 10 Jun 2023 06:48:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Jun 2023 06:57:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -52,7 +52,7 @@
 				</div>
 				<div class="elementor-element elementor-element-55e4b5d2 elementor-widget elementor-widget-aux_image" data-id="55e4b5d2" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au0c66162e">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au82d15f57">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -75,7 +75,7 @@
 				</div>
 				<div class="elementor-element elementor-element-3daf81b2 elementor-widget elementor-widget-aux_image" data-id="3daf81b2" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au58c2f7dd">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au53155720">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -129,7 +129,7 @@
 				<div class="elementor-element elementor-element-3da0b0a6 elementor-widget__width-auto elementor-widget-tablet__width-inherit elementor-widget elementor-widget-aux_modern_button" data-id="3da0b0a6" data-element_type="widget" data-widget_type="aux_modern_button.default">
 				<div class="elementor-widget-container">
 			    <div class="aux-modern-button-wrapper aux-modern-button-align-center" >
-                    <a class="aux-modern-button aux-black aux-modern-button-md aux-modern-button-normal aux-modern-button-default aux-icon-" href="https://abhishek-tiwaari.github.io/ViralNewsBuzzz/">
+                    <a class="aux-modern-button aux-black aux-modern-button-md aux-modern-button-normal aux-modern-button-default aux-icon-" href="https://abhishek-tiwaari.github.io/ViralNewsBuzz/">
                 <div class="aux-overlay"></div>
                                     <div class="aux-icon ">
                                             </div>
