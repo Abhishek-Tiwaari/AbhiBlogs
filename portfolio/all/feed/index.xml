@@ -11,8 +11,8 @@
 	<title>Portfolios &#8211; Abhiblogs</title>
 	<atom:link href="https://abhishek-tiwaari.github.io/AbhiBlogs/portfolio/all/feed/" rel="self" type="application/rss+xml" />
 	<link>https://abhishek-tiwaari.github.io/AbhiBlogs</link>
-	<description>Yet another awesome website by Phlox theme.</description>
-	<lastBuildDate>Thu, 15 Jun 2023 06:57:25 +0000</lastBuildDate>
+	<description>My Personal Portfolio</description>
+	<lastBuildDate>Wed, 21 Jun 2023 05:05:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,138 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>Doctor Clinic Personal Website</title>
+		<link>https://abhishek-tiwaari.github.io/AbhiBlogs/portfolio/doctor-clinic-personal-website/</link>
+		
+		<dc:creator><![CDATA[Abhishek]]></dc:creator>
+		<pubDate>Wed, 21 Jun 2023 04:39:04 +0000</pubDate>
+				<guid isPermaLink="false">https://abhishek-tiwaari.github.io/AbhiBlogs/?post_type=portfolio#038;p=1082</guid>
+
+					<description><![CDATA[Welcome to Dr. Dinesh Personal Clinic Website! We are thrilled to introduce our modern and user-friendly website designed to provide you with all the essential information about our esteemed doctor and the services we offer. At Dr. Smith&#8217;s Personal Clinic, we prioritize your health and well-being, and our website aims to make your experience seamless [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1082" class="elementor elementor-1082">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-50dd2ad4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="50dd2ad4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-65fb63c" data-id="65fb63c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1f2372b3 elementor-widget elementor-widget-text-editor" data-id="1f2372b3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.13.3 - 28-05-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Welcome to Dr. Dinesh Personal Clinic Website!</p><p>We are thrilled to introduce our modern and user-friendly website designed to provide you with all the essential information about our esteemed doctor and the services we offer. At Dr. Smith&#8217;s Personal Clinic, we prioritize your health and well-being, and our website aims to make your experience seamless and convenient.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7fb80f7b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7fb80f7b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="aux-parallax-section elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-14e753ff" data-id="14e753ff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4317ba09 elementor-widget elementor-widget-text-editor" data-id="4317ba09" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>To offer convenience and support, we have integrated an online appointment scheduling system. Our &#8220;Book an Appointment&#8221; feature allows you to select your preferred date and time, providing you with flexibility and control over your healthcare journey. Additionally, you can find our clinic&#8217;s location, working hours, and contact information on the website, ensuring you can easily reach us and plan your visit.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3c88eddc elementor-widget elementor-widget-aux_image" data-id="3c88eddc" data-element_type="widget" data-widget_type="aux_image.default">
+				<div class="elementor-widget-container">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-audc1b4f68">
+    <div class="aux-media-hint-frame ">
+        <div class="aux-media-image " >
+        
+            
+
+            
+            <img decoding="async" width="1364" height="662" src="https://abhishek-tiwaari.github.io/AbhiBlogs/wp-content/uploads/2023/06/C2.jpg" class="aux-attachment aux-featured-image aux-attachment-id-1087" alt="C2" data-ratio="2.06" data-original-w="1364" />            
+                </div>
+    </div>
+
+</section><!-- widget-container -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="aux-parallax-section elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-702f2894" data-id="702f2894" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-52fbf8a6 elementor-widget elementor-widget-text-editor" data-id="52fbf8a6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>To offer convenience and support, we have integrated an online appointment scheduling system. Our &#8220;Book an Appointment&#8221; feature allows you to select your preferred date and time, providing you with flexibility and control over your healthcare journey. Additionally, you can find our clinic&#8217;s location, working hours, and contact information on the website, ensuring you can easily reach us and plan your visit.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a2d3fc0 elementor-widget elementor-widget-aux_image" data-id="a2d3fc0" data-element_type="widget" data-widget_type="aux_image.default">
+				<div class="elementor-widget-container">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aua6ac3ff8">
+    <div class="aux-media-hint-frame ">
+        <div class="aux-media-image " >
+        
+            
+
+            
+            <img decoding="async" width="1366" height="649" src="https://abhishek-tiwaari.github.io/AbhiBlogs/wp-content/uploads/2023/06/Cl2.jpg" class="aux-attachment aux-featured-image aux-attachment-id-1085" alt="Cl2" data-ratio="2.1" data-original-w="1366" />            
+                </div>
+    </div>
+
+</section><!-- widget-container -->		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4b1a4778 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4b1a4778" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-18f854c4" data-id="18f854c4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-45b3d31b elementor-widget elementor-widget-text-editor" data-id="45b3d31b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Furthermore, we believe in empowering our patients with knowledge. Our website features an educational resources section where you can find informative articles, blog posts, and frequently asked questions related to various health topics. We aim to provide you with reliable information that helps you make informed decisions about your well-being.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1a0591b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a0591b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9f1b465" data-id="9f1b465" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-36aeeb6 elementor-widget__width-auto elementor-widget elementor-widget-aux_modern_heading" data-id="36aeeb6" data-element_type="widget" data-widget_type="aux_modern_heading.default">
+				<div class="elementor-widget-container">
+			<section class="aux-widget-modern-heading">
+            <div class="aux-widget-inner"><h5 class="aux-modern-heading-primary">Client</h5><h4 class="aux-modern-heading-secondary"><span class="aux-head-before">Dr Dinesh Tiwari</span></h4></div>
+        </section>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7b2ce5a elementor-widget__width-auto elementor-widget elementor-widget-aux_modern_heading" data-id="7b2ce5a" data-element_type="widget" data-widget_type="aux_modern_heading.default">
+				<div class="elementor-widget-container">
+			<section class="aux-widget-modern-heading">
+            <div class="aux-widget-inner"><h5 class="aux-modern-heading-primary">Release Date</h5><h4 class="aux-modern-heading-secondary"><span class="aux-head-before">June 2023</span></h4></div>
+        </section>		</div>
+				</div>
+				<div class="elementor-element elementor-element-98a611a elementor-widget__width-auto elementor-widget elementor-widget-aux_modern_heading" data-id="98a611a" data-element_type="widget" data-widget_type="aux_modern_heading.default">
+				<div class="elementor-widget-container">
+			<section class="aux-widget-modern-heading">
+            <div class="aux-widget-inner"><h5 class="aux-modern-heading-primary">Role</h5><h4 class="aux-modern-heading-secondary"><span class="aux-head-before">Web Design</span></h4></div>
+        </section>		</div>
+				</div>
+				<div class="elementor-element elementor-element-770dd92 elementor-widget__width-auto elementor-widget-tablet__width-inherit elementor-widget elementor-widget-aux_modern_button" data-id="770dd92" data-element_type="widget" data-widget_type="aux_modern_button.default">
+				<div class="elementor-widget-container">
+			    <div class="aux-modern-button-wrapper aux-modern-button-align-center" >
+                    <a class="aux-modern-button aux-info aux-modern-button-md aux-modern-button-normal aux-modern-button-default aux-icon-" href="https://abhishek-tiwaari.github.io/Dr_Dinesh_Tiwari/">
+                <div class="aux-overlay"></div>
+                                    <div class="aux-icon ">
+                                            </div>
+                                <div class="aux-text">
+<span class="aux-text-before">Launch Project</span>                </div>
+            </a>
+            
+    </div>
+
+    		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Professional Banners</title>
 		<link>https://abhishek-tiwaari.github.io/AbhiBlogs/portfolio/professional-banners/</link>
 		
@@ -35,8 +167,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-15e38c5a elementor-widget elementor-widget-text-editor" data-id="15e38c5a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>A WordPress professional web banner is a visually appealing graphic element specifically designed for WordPress websites to convey a professional or business-oriented message. It serves as a prominent visual component placed on the homepage or other key pages to attract attention and engage visitors effectively. The purpose of the banner is to communicate essential information about the business, such as promoting products or services, announcing special offers or events, or highlighting key features and benefits.</p>						</div>
+							<p>A WordPress professional web banner is a visually appealing graphic element specifically designed for WordPress websites to convey a professional or business-oriented message. It serves as a prominent visual component placed on the homepage or other key pages to attract attention and engage visitors effectively. The purpose of the banner is to communicate essential information about the business, such as promoting products or services, announcing special offers or events, or highlighting key features and benefits.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -52,7 +183,7 @@
 				</div>
 				<div class="elementor-element elementor-element-21a9898b elementor-widget elementor-widget-aux_image" data-id="21a9898b" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au6b11eb49">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-auf0ee3238">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -75,7 +206,7 @@
 				</div>
 				<div class="elementor-element elementor-element-1c88be7d elementor-widget elementor-widget-aux_image" data-id="1c88be7d" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au62dab9f1">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au8f98f1b7">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -183,7 +314,7 @@
 				</div>
 				<div class="elementor-element elementor-element-2b492acd elementor-widget elementor-widget-aux_image" data-id="2b492acd" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au26cc7744">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au58bbb06d">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -206,7 +337,7 @@
 				</div>
 				<div class="elementor-element elementor-element-169058c2 elementor-widget elementor-widget-aux_image" data-id="169058c2" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au9acbd52a">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aucfd5c580">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -298,7 +429,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4db439c6 elementor-widget elementor-widget-text-editor" data-id="4db439c6" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>As a freelancing website, our viral news platform connects talented freelance journalists, writers, and content creators with a global audience hungry for captivating and trending stories. We offer a dynamic and engaging platform where freelancers can showcase their skills and expertise while delivering compelling and shareable content that captures the essence of the latest viral news and trends. Our goal is to provide an avenue for freelancers to contribute to the digital media landscape, reach a wider audience, and collaborate with fellow professionals, all while delivering timely and buzz-worthy content that keeps our readers coming back for more.</p>						</div>
+							<p>As a freelancing website, our viral news platform connects talented freelance journalists, writers, and content creators with a global audience hungry for captivating and trending stories. We offer a dynamic and engaging platform where freelancers can showcase their skills and expertise while delivering compelling and shareable content that captures the essence of the latest viral news and trends. Our goal is to provide an avenue for freelancers to contribute to the digital media landscape, reach a wider audience, and collaborate with fellow professionals, all while delivering timely and buzz-worthy content that keeps our readers coming back for more.</p><p>A Content Management system is a Application that promotes and assists the making and modification of digital content. A shared user interface is generally used, which results in several users functioning together in a very cooperative environment. The user interface used is so simple that even people with little knowledge about digital content can add, modify and publish their content on the website.</p><p>Viral Content is any content like news, articles, discussions, stories or videos that spread rapidly on internet and have the potential to make more and more people view it. A viral content management site therefore only consist of the viral content related to current affairs and the interest of the audience. So a lot depends upon the kind of public you are targeting. These days the amount of viral content management websites are increasing rapidly, reason being the amount of money or revenue that is generated in viral industry. A large amount of money is generated by the means of advertisements and sponsored posts. However, the quality of the content is being given less attention.</p><p>Viral Content will be unthinkable without viral giants like Viral Nova, Upworthy and ScoopWhoop in India.</p><p>ViralNewsBuzz is a content management website with automated payroll system. Any freelancer writer can write an article or can post a video and for this they will get paid based on revenue generated by their articles. Our payroll system works on google analytics AP4. From google analytic, we fetch the earnings and page views of every article and based on AdSterra earning per article, 70% out of which is given to the Writer.</p><p> </p><ul><li><strong>OBJECTIVE :</strong></li></ul><p> </p><p>The Purpose of this Project is to provide a Content Management that involves an Automated Payroll System, which results in &#8220;ViralNewsBuzz&#8221;, where all kinds of viral content gets published.</p><p>“ViralNewsBuzz” manages the viral content published by any freelancer writer/author. The writer needs to register themselves on this website and will be provided by a username and password to write anything related to the current topics, blogs and the things that are trending and viral at present.</p><p>Moreover, it also provides the writer with a special privilege to earn with their writing. The articles or blogs writing can make them earn a handsome amount. “ViralNewsBuzz” is been associated with the Automated Payroll System which works on the Google Analytics AP4.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -314,7 +445,7 @@
 				</div>
 				<div class="elementor-element elementor-element-55e4b5d2 elementor-widget elementor-widget-aux_image" data-id="55e4b5d2" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au04090ad3">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au461afcf2">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
@@ -337,7 +468,7 @@
 				</div>
 				<div class="elementor-element elementor-element-3daf81b2 elementor-widget elementor-widget-aux_image" data-id="3daf81b2" data-element_type="widget" data-widget_type="aux_image.default">
 				<div class="elementor-widget-container">
-			<section class="widget-container aux-widget-image aux-alignnone aux-parent-au5dde4170">
+			<section class="widget-container aux-widget-image aux-alignnone aux-parent-aucea44dc0">
     <div class="aux-media-hint-frame ">
         <div class="aux-media-image " >
         
